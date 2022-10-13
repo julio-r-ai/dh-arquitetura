@@ -13,50 +13,26 @@ p{
     text-align: center;
 }
 
-.blue{
+.fontColor{
     color:#6c64fb;
 }
 
-/* .main-footer{
-
-   padding: 2%;
-
-   
-   display: flex;
-   justify-content: space-evenly;
-   
-
-}
-
 .linha{
-    width: 800px;
-    border: 5px solid rgb(214, 214, 221);
-    margin: 40px;
-    border-radius: 5ch;
-    display: flex; 
-    
+    width: 70%;
+    height: 7px;
+    background-color: #e0e0e9;
+    border-radius: 5cm;
+    display: flex;
+    margin-left: 17%;
+   
 }
- */
 
-
-
-
-#main-footer {
+#main-footer{
 
     background-color: white;
-    width: 300px;
+    width: 8cm;
     height: 30px;
     display: flex;
-    justify-content: space-evenly;
-    margin-left: 35%;
+    margin-left:  40%;
     
 }
-
-/* #container-1{
-    background-color: 
-}
-
-#container-2{   
-    background-color: blueviolet;
-}
- */
